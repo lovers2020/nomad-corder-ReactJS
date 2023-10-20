@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "typescript": "^5.2.2",
+    "webpack": "^5.89.0",
+    "webpack-cli": "^5.1.4"
+  },
+  "name": "nomad-corder-reactjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
